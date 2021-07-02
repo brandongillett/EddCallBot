@@ -2,8 +2,8 @@
 This EDD call bot uses Python with Twilio to call the EDD hundereds of times an hour and calling you once the bot gets ahold of them!  
 
 For this you will have to create a Twilio account and pay a standard fee of $20 to use the phone line.  
-This is a short instruction list of what you will have to do in order to get Twilio and This Python script setup.  
 
+This is a short instruction list of what you will have to do in order to get Twilio and This Python script setup.  
 1 : Sign-Up for Twilio at https://www.twilio.com/try-twilio  
 2 : Fund your account and add a phone number  
 3 : Click the 3 dots on the left hand tool bar and find TwiMl Bins  
