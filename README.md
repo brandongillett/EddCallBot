@@ -1,5 +1,5 @@
 # EddCallBot
-This EDD call bot uses Python with Twilio to call the EDD hundereds of times an hour and calling you once the bot gets ahold of them!  
+This EDD call bot uses Python with Twilio to call the EDD hundreds of times an hour and calling you once the bot gets ahold of them!  
 
 For this you will have to create a Twilio account and pay a standard fee of $20 to use the phone line.  
 
@@ -12,5 +12,5 @@ This is a short instruction list of what you will have to do in order to get Twi
 6 : Press the home icon in twilio and locate Account SID and Auth Token and paste those in callbot.py also between the quotes.  
 7 : Click the # on twilio and it will take you to phone numbers and find the phone number that you have purchased, and in callbot.py you are going to type that number where it says FROM out (with +1 before it) without any other characters  
 8 : Type your phone number in the where it says NUMBER (also including the +1 before it) without any characters  
-9 : Where it says BOT_NUM enter how many bots you would like to call every cycle which is approximately 3 Minutes and 30 Seconds (Recomended 20 For Best Effect)  
+9 : Where it says BOT_NUM enter how many bots you would like to call every cycle which is approximately 3 Minutes and 30 Seconds (Recommended 20 For Best Effect)  
 10 : Lastly Run the callbot.py script in the terminal using "python3 callbot.py" Python3 and Pip are required for this  
